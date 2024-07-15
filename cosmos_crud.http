@@ -1,0 +1,6 @@
+@cosmos_crud_HostAddress = http://localhost:5298
+
+GET {{cosmos_crud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
